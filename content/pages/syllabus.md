@@ -2,6 +2,8 @@
 content_type: page
 description: This section describes the course prerequisites, content, requirements,
   and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -31,7 +33,7 @@ This course was offered entirely online while the MIT campus was shut down due t
 Technical Requirements
 ----------------------
 
-Student need to install the Julia programming language, as well as other tools and packages. Complete instructions are listed on the {{% resource_link "c49cd4ff-bc89-4246-9569-2724b938ac01" "GitHub course page" %}}.
+Student need to install the Julia programming language, as well as other tools and packages. Complete instructions are listed on the [GitHub course page](https://github.com/mitmath/6S083).
 
 Problem Sets & Exams
 --------------------
